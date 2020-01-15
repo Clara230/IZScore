@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatsZScore", "Calculator\StatsZScore.csproj", "{CA72BC25-B5B9-4D05-AD9F-AE707C611643}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatsOperations", "..\StatsOperations\StatsOperations\StatsOperations.csproj", "{1169EC08-1998-45A8-8C40-560616D50F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA72BC25-B5B9-4D05-AD9F-AE707C611643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA72BC25-B5B9-4D05-AD9F-AE707C611643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA72BC25-B5B9-4D05-AD9F-AE707C611643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA72BC25-B5B9-4D05-AD9F-AE707C611643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1169EC08-1998-45A8-8C40-560616D50F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1169EC08-1998-45A8-8C40-560616D50F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1169EC08-1998-45A8-8C40-560616D50F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1169EC08-1998-45A8-8C40-560616D50F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43170D70-389C-4019-9C05-802599908A3C}
+	EndGlobalSection
+EndGlobal
